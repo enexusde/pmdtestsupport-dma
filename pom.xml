@@ -18,7 +18,7 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<defaultGoal>compile pmd:pmd</defaultGoal>
+		<defaultGoal>compile pmd:check</defaultGoal>
 	</build>
 	<repositories>
 		<repository>
